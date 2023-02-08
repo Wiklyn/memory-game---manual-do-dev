@@ -1,6 +1,6 @@
 # Jogo da Memória - Manual do Dev
 
-This is a Memory Game created by Manual do Dev on his Youtube channel. The theme of the game is Rick and Morty.
+This is a [Memory Game](https://wiklyn.github.io/memory-game---manual-do-dev/) created by Manual do Dev on his Youtube channel. The theme of the game is Rick and Morty.
 
 ## Table of contents
 
